@@ -1,4 +1,7 @@
 public class calculator{
 public static void main(string args[]){
 }
+public int add(int a, int b){
+return a+b;
+}
 }
